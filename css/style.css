@@ -97,3 +97,9 @@ code {
     padding: 20px;
     margin-bottom: 110px;
 }
+
+@media (min-width: 800px) {
+    body {
+        min-width: 500px;
+    }
+}
